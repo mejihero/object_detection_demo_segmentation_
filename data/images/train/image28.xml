@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image28.jpg</filename>
+	<path>C:\Users\LUY1\Downloads\customImages\train\image28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>799</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>188</ymin>
+			<xmax>755</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>
