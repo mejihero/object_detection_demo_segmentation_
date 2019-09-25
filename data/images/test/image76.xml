@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>image76.jpg</filename>
+	<path>C:\Users\LUY1\Downloads\customImages\val\image76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>194</ymin>
+			<xmax>719</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+</annotation>
