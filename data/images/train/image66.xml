@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image66.jpg</filename>
+	<path>/home/luy1/Desktop/chengwei/train/image66.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Minor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>55</ymin>
+			<xmax>213</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>
