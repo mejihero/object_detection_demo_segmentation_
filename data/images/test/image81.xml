@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>image81.jpeg</filename>
+	<path>/home/luy1/Desktop/chengwei/val/image81.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>199</width>
+		<height>253</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Moderate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>61</ymin>
+			<xmax>153</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>
